@@ -1,0 +1,23 @@
+.goods-list {
+
+  display: flex;
+  
+}
+
+.goods-item {
+  border: 1px solid wheat;
+  width: 150px;
+  padding: 0px 20px;
+  margin: 10px 10px;
+}
+
+.basket-list {
+position: absolute;
+
+background-color: aqua;
+
+}
+
+#primer{
+  color: red;
+}
